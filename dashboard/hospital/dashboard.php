@@ -18,6 +18,7 @@
     <div class="brand"><span class="logo"><i class="fa-solid fa-shield-heart"></i></span> VaccineCare</div>
     <div class="role">Hospital Panel</div>
     <a href="dashboard.html" class="on"><i class="fa-solid fa-clipboard-list"></i> Appointments</a>
+    <a href="stock.html"><i class="fa-solid fa-boxes-stacked"></i> Vaccine Stock</a>
 
     <div class="gap"></div>
     <div class="help"><b>Every dose counts</b>Keep every child protected and on schedule.</div>

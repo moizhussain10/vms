@@ -29,7 +29,7 @@
 
     <div class="gap"></div>
     <div class="help"><b>Every dose counts</b>Keep every child protected and on schedule.</div>
-    <a class="out" href="../index.html"><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
+    <a class="out" href="../index.php" ><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
   </div>
 
   <!-- Main area -->
